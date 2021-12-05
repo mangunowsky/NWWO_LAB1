@@ -53,5 +53,14 @@
         "hex": "#0F0"
       }
     },
+    {
+      "color": "ocean blue",
+      "category": "hue",
+      "type": "secondary",
+      "code": {
+        "rgba": [11,182,205,1],
+        "hex": "#0BB6CD"
+      }
+    }
   ]
 }
